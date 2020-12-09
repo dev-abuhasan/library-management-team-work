@@ -1,12 +1,13 @@
 import React from 'react';
+import './Home.css';
 
 const Home = () => {
+    document.title = 'Home';
+
     return (
-        <div>
-            <h2>ABU HASAN</h2>
-            <h3>Aman</h3>
-            <h1>Rashidul Islam</h1>
-        </div>
+        <header>
+            
+        </header>
     );
 };
 
