@@ -1,0 +1,20 @@
+Peoject Library Managemnt system 
+
+email =>>>>>>>> scicb2teampro		pass: RASABUKANAM
+google meet link: https://meet.google.com/abm-rgvh-ceg
+
+npm install react-router-dom
+npm install react-redux
+npm install redux
+npm install react-bootstrap bootstrap
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install --save firebase
+npm install axios
+
+
+
+Ides: 
+	03>> https://xeroneit.co/demo/lms/admin/requested_books
+	01>>==+ https://openlibrary.org/
+	02>>>>> https://www.youtube.com/watch?v=5QEwqX5U_2M&t=411s
