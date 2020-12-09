@@ -18,3 +18,11 @@ Ides:
 	03>> https://xeroneit.co/demo/lms/admin/requested_books
 	01>>==+ https://openlibrary.org/
 	02>>>>> https://www.youtube.com/watch?v=5QEwqX5U_2M&t=411s
+
+git init
+git remote add origin https://github.com/AH-INSTITUTE/library-management-team-work.git
+git remote -v 
+
+git pull
+git branch -a
+git checkout <your branch>
