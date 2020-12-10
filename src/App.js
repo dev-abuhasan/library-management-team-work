@@ -19,6 +19,7 @@ function App() {
             <Route exact path="/" component={Home} />;
             <Route exact path="/home" component={Home} />;
 
+
             <PrivateRoute exact path="/dashboard">
               <Dashboard />
             </PrivateRoute>

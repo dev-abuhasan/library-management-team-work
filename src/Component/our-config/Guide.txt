@@ -3,6 +3,9 @@ Peoject Library Managemnt system
 email =>>>>>>>> scicb2teampro		pass: RASABUKANAM
 google meet link: https://meet.google.com/abm-rgvh-ceg
 
+
+firebase Verifation: 1. Gamil With Create Accoutn, 
+
 npm install react-router-dom
 npm install react-redux
 npm install redux
