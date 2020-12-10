@@ -8,5 +8,4 @@ const MainNavBar = () => {
         </div>
     );
 };
-
 export default MainNavBar;
