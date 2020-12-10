@@ -34,7 +34,7 @@ const UserAuthProvider = (props) => {
                 setSucceed(errorMessageDuplicate);
             });
     }
-
+ 
     // sign in user of google
     const handleGoogleSignIn = () => {
         const googleProvider = new firebase.auth.GoogleAuthProvider();
