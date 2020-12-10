@@ -5,3 +5,6 @@
 
 ##### ABU HASAN
 
+## Member 02 Bio
+### Amanur Rahman (Aman)
+
